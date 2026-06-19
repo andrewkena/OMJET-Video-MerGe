@@ -1,0 +1,8 @@
+.venv/
+build/
+__pycache__/
+*.spec
+*.pyc
+video_*.mp4
+_stub_*.mp4
+_concat_*.txt
